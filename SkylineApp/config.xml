@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.skyline.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Skyline HS App</name>
+    <description>Official ASB Skyline Mobile App</description>
+    <icon src="./res/icon.png"/>
+    <author email="rk.ronakjkothari@gmail.com" href="https://github.com/ronakkothari123">
+        Ronak Kothari
+    </author>
+    <content src="index.html" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+</widget>
